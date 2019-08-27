@@ -21,3 +21,7 @@ Array B rotated to the left by two places results in [5, 7, 9, 1, 3].
 Write a method that accepts three parameters, a direction (right or left), a number of places, and an array,
 which prints the appropriate rotation. Call the method on all three arrays. Rotate array A two places to the left. 
 Rotate array B two places to the right. Rotate array C four places to the left.
+
+Sorting arrays
+
+Write a method that takes an unsorted integer array and prints a sorted array. Use Array C as your test array. Do you recognize this list of numbers?
